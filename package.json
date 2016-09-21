@@ -1,0 +1,30 @@
+{
+  "name": "nodebp",
+  "version": "1.0.0",
+  "description": "Example code",
+  "main": "sec.js",
+  "dependencies": {
+    "node-cache": "^3.2.1",
+    "ringpop": "^10.15.0",
+    "tchannel": "^2.1.2",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andras-Simon/nodebp.git"
+  },
+  "keywords": [
+    "ringpop",
+    "node"
+  ],
+  "author": "Andras Simon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Andras-Simon/nodebp/issues"
+  },
+  "homepage": "https://github.com/Andras-Simon/nodebp#readme"
+} 
