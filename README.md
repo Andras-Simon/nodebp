@@ -14,6 +14,7 @@ After the first node is running on port 8080 start the other members of the clus
 
 `
 PORT=8081 node first
+
 PORT=8082 node first
 ...
 `
@@ -22,6 +23,7 @@ or
 
 `
 PORT=8081 node second
+
 PORT=8082 node second
 ...
 `
